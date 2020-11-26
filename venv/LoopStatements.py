@@ -1,7 +1,6 @@
 # Looping Statements (Iterative Statements)
 
 # Executes set of instructions repeatedly
-
 # Pythons supports 2 types of iterative statements 1. While Loop 2. For Loop
 
 A = "CHINNA CHARY"
